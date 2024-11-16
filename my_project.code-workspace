@@ -31,7 +31,7 @@
 			"archive": true,
 			"**/egg-info": true,
 		},
-		"python.defaultInterpreterPath": "~/venv/bin/python",
+		"python.defaultInterpreterPath": "./venv/bin/python",
 		"python.terminal.activateEnvironment": true,
 		"editor.defaultFormatter": "charliermarsh.ruff",
 		"editor.formatOnSave": true,
