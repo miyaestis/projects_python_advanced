@@ -11,8 +11,7 @@
 			"donjayamanne.python-environment-manager",
 			"kaih2o.python-resource-monitor",
 			"charliermarsh.ruff",
-			"matangover.mypy",
-			"ms-toolsai.jupyter",
+			"matangover.mypy"
 		],
 	},
 	"settings": {

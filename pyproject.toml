@@ -13,7 +13,6 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "tox",
-    "ipykernel",
     "my-project[ds]",
     "my-project[lint]",
     "my-project[test]",
